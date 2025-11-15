@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="1676" height="821" alt="image" src="https://github.com/user-attachments/assets/ad929edb-999a-47a8-a358-b8cc810ece50" /># 🌐 **Rishi Portfolio**
 
-## Getting Started
+A stunning, modern and fully-responsive personal portfolio website built with **Next.js + Tailwind CSS**, crafted to showcase skills, projects, and achievements in an eye-catching and professional way.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 **Tech Stack**
+
+* ⚛️ Next.js 14 (App Router)
+* 🎨 Tailwind CSS
+* 🎞️ Framer Motion
+* ☁️ Vercel Deployment
+* ⚡ Optimized Images & SEO
+
+---
+
+## ✨ **Features**
+
+A modern, responsive, and elegant personal portfolio built using **Next.js** and **Tailwind CSS**. This portfolio showcases my skills, projects, experience, and contact details in a clean and professional layout.
+
+---
+
+## 🚀 Tech Stack
+
+* **Next.js 14** (App Router)
+* **React**
+* **Tailwind CSS**
+* **Framer Motion** (animations)
+* **Vercel** (deployment)
+
+---
+
+## ✨ **Features**
+
+* ⚡ Fast & SEO‑friendly
+* 🎨 Clean UI with Tailwind CSS
+* 📱 Fully responsive design
+* ✨ Smooth animations
+* 🧩 Modular components
+* 🌙 Dark mode (optional)
+* 🖼️ Project gallery section
+
+---
+
+## 📂 Project Structure
+
+```
+├── app/
+│   ├── page.js          # Home page
+│   ├── about/           # About section
+│   ├── projects/        # Projects page
+│   └── contact/         # Contact form
+├── components/          # Reusable UI components
+├── public/              # Images, icons, assets
+├── styles/              # Global styles
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+git clone https://github.com/USERNAME/rishi-portfolio.git
+cd rishi-portfolio
+npm install
+npm run dev
+```
 
-## Learn More
+Visit: `http://localhost:3000`
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌍 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deployed via **Vercel** → [https://rishi-portfolio.vercel.app](https://rishi-portfolio.vercel.app)
 
-## Deploy on Vercel
+To redeploy:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+git add .
+git commit -m "update"
+git push
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+(Vercel auto‑deploys)
+
+---
+
+## 📞 Contact
+
+📧 Email: singh173@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sinku-singh-7a22ab233/
+🧑‍💻 Portfolio: [https://rishi-portfolio.vercel.app](https://rishi-portfolio.vercel.app)
+
+---
+
+ Preview
+
+Below are some previews of the portfolio website:
+<img width="1677" height="817" alt="Projects" src="https://github.com/user-attachments/assets/aa1d2574-5c49-4757-8180-7ff08cb17bd0" />
+
+---
+
+## ⭐ Show Support
+
+If you like this project, consider giving it a **star** ⭐ on GitHub!
