@@ -73,7 +73,7 @@ Visit: `http://localhost:3000`
 
 ## 🌍 Deployment
 
-Deployed via **Vercel** → [https://rishi-portfolio.vercel.app](https://rishi-portfolio.vercel.app)
+Deployed via **Vercel** → https://sinku-portfolio.vercel.app/
 
 To redeploy:
 
@@ -91,7 +91,7 @@ git push
 
 📧 Email: singh173@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/sinku-singh-7a22ab233/
-🧑‍💻 Portfolio: [https://rishi-portfolio.vercel.app](https://rishi-portfolio.vercel.app)
+🧑‍💻 Portfolio: https://sinku-portfolio.vercel.app/
 
 ---
 
