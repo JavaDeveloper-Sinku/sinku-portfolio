@@ -25,7 +25,7 @@ export default function home() {
       title: "E-Commerce System",
       stack: ["Spring Boot", "MySQL", "JWT"],
       desc: "Full backend for e-commerce: products, carts, orders, payments (mock).",
-      repo: "https://github.com/yourname/ecommerce-backend",
+      repo: "https://github.com/JavaDeveloper-Sinku/ecom-Microservice_CodeBase",
       demo: "",
       features: [
         "User authentication (JWT)",
@@ -37,7 +37,7 @@ export default function home() {
       title: "Restaurant POS System",
       stack: ["Next.js", "Spring Boot", "IndexedDB"],
       desc: "Offline-capable POS with local DB, sync and printable invoices.",
-      repo: "https://github.com/yourname/restaurant-pos",
+      repo: "https://github.com/JavaDeveloper-Sinku/Restaurant-pos_SystemUi",
       demo: "",
       features: ["Offline mode", "Receipt generation", "Inventory sync"],
     },
@@ -45,7 +45,7 @@ export default function home() {
       title: "Smart Attendance System",
       stack: ["Spring Boot", "React", "Face Recognition"],
       desc: "Attendance using face recognition, role-based access, and reports.",
-      repo: "https://github.com/yourname/attendance-system",
+      repo: "https://github.com/JavaDeveloper-Sinku/SmartSeat_AlloactionSystem-with-Ai",
       demo: "",
       features: ["Face-based check-in", "Classroom reports", "CSV export"],
     },
@@ -93,9 +93,9 @@ export default function home() {
       <nav className="fixed w-full z-40 bg-black/40 backdrop-blur-sm">
         <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-full bg-purple-600 flex items-center justify-center font-bold">RS</div>
+            <div className="w-10 h-10 rounded-full bg-purple-600 flex items-center justify-center font-bold">SS</div>
             <div className="hidden md:block">
-              <span className="font-semibold">Rishi Singh</span>
+              <span className="font-semibold">Sinku Singh</span>
               <div className="text-xs text-gray-300">Java Backend Developer</div>
             </div>
           </div>
@@ -121,7 +121,7 @@ export default function home() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <motion.div initial={{ opacity: 0, x: -60 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.7 }}>
               <h1 className="text-5xl md:text-6xl font-extrabold leading-tight">
-                Hi, I'm <span className="text-purple-400">Rishi Singh</span>
+                Hi, I'm <span className="text-purple-400">Sinku Singh</span>
               </h1>
               <p className="mt-3 text-xl text-gray-300">Java Backend Developer | Spring Boot | Microservices | System Design</p>
 
@@ -139,8 +139,8 @@ export default function home() {
               </div>
 
               <div className="mt-6 flex items-center gap-4 text-gray-300">
-                <a href="#" aria-label="github" className="hover:text-purple-400"><Github /></a>
-                <a href="#" aria-label="linkedin" className="hover:text-purple-400"><Linkedin /></a>
+                <a href="https://github.com/JavaDeveloper-Sinku" aria-label="github" className="hover:text-purple-400"><Github /></a>
+                <a href="https://www.linkedin.com/in/sinku-singh-7a22ab233/" aria-label="linkedin" className="hover:text-purple-400"><Linkedin /></a>
                 <a href="#" aria-label="phone" className="hover:text-purple-400"><Phone /></a>
               </div>
             </motion.div>
