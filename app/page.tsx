@@ -349,10 +349,10 @@ export default function home() {
         {/* FOOTER */}
         <footer className="max-w-6xl mx-auto px-6 mt-20 pb-12 text-center text-gray-400">
           <div className="flex justify-center items-center gap-4 mb-4">
-            <a href="#" className="hover:text-white"><Github /></a>
-            <a href="#" className="hover:text-white"><Linkedin /></a>
+            <a href="https://github.com/JavaDeveloper-Sinku" className="hover:text-white"><Github /></a>
+            <a href="https://www.linkedin.com/in/sinku-singh-7a22ab233/" className="hover:text-white"><Linkedin /></a>
           </div>
-          <div>© {new Date().getFullYear()} Rishi Singh — Built with Next.js</div>
+          <div>© {new Date().getFullYear()} Sishi Singh — Built with Next.js</div>
         </footer>
       </main>
     </div>
