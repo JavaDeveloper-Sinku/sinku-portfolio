@@ -327,8 +327,8 @@ export default function home() {
           <div className="mt-6 bg-gray-800 p-6 rounded-2xl">
             <div className="grid md:grid-cols-2 gap-6">
               <div>
-                <div className="flex items-center gap-3 mb-3"><Mail /> <div>rishi.dev@example.com</div></div>
-                <div className="flex items-center gap-3 mb-3"><Phone /> <div>+91 98765 43210</div></div>
+                <div className="flex items-center gap-3 mb-3"><Mail /> <div>sinkusingh173@gmail.com</div></div>
+                <div className="flex items-center gap-3 mb-3"><Phone /> <div>+91 99773 37673</div></div>
                 <div className="flex items-center gap-3 mb-3"><Github /> <div>github.com/yourname</div></div>
                 <div className="flex items-center gap-3 mb-3"><Linkedin /> <div>linkedin.com/in/rishi</div></div>
               </div>
