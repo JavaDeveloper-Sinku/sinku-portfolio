@@ -329,8 +329,8 @@ export default function home() {
               <div>
                 <div className="flex items-center gap-3 mb-3"><Mail /> <div>sinkusingh173@gmail.com</div></div>
                 <div className="flex items-center gap-3 mb-3"><Phone /> <div>+91 99773 37673</div></div>
-                <div className="flex items-center gap-3 mb-3"><Github /> <div>github.com/yourname</div></div>
-                <div className="flex items-center gap-3 mb-3"><Linkedin /> <div>linkedin.com/in/rishi</div></div>
+                <div className="flex items-center gap-3 mb-3"><Github /> <div>github.com/JavaDeveloper-Sinku</div></div>
+                <div className="flex items-center gap-3 mb-3"><Linkedin /> <div>linkedin.com/in/sinku-singh-7a22ab233/</div></div>
               </div>
 
               <form onSubmit={handleContact} className="space-y-3">
@@ -352,7 +352,7 @@ export default function home() {
             <a href="https://github.com/JavaDeveloper-Sinku" className="hover:text-white"><Github /></a>
             <a href="https://www.linkedin.com/in/sinku-singh-7a22ab233/" className="hover:text-white"><Linkedin /></a>
           </div>
-          <div>© {new Date().getFullYear()} Sishi Singh — Built with Next.js</div>
+          <div>© {new Date().getFullYear()} Sinku Singh — Built with Next.js</div>
         </footer>
       </main>
     </div>
