@@ -131,7 +131,7 @@ export default function home() {
               </p>
 
               <div className="mt-6 flex gap-3">
-                <a href="/resume.pdf" className="px-5 py-3 bg-purple-600 rounded-lg font-semibold inline-flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/1Mjd1mFE8AXNEHMl7wqBECSG1ZoZui86X/view?usp=sharing" className="px-5 py-3 bg-purple-600 rounded-lg font-semibold inline-flex items-center gap-2">
                   <FileText size={18} /> Resume
                 </a>
                 <a href="#contact" className="px-5 py-3 border border-gray-700 rounded-lg">Contact Me</a>
