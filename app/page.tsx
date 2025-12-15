@@ -285,7 +285,7 @@ export default function home() {
             <h3 className="font-semibold flex items-center gap-2"><BookOpen /> Education</h3>
             <div className="mt-3 text-gray-300 text-sm">
               <div><strong>B.Tech — Computer Science</strong></div>
-              <div className="text-xs">College Name • Year</div>
+              <div className="text-xs">Gyan Ganga Institute of Technology & Sciences • Year</div>
               <div className="mt-2">Relevant coursework: Data Structures, DBMS, Operating Systems, Computer Networks</div>
             </div>
           </div>
