@@ -34,12 +34,16 @@ export default function home() {
       ],
     },
     {
-      title: "Restaurant POS System",
-      stack: ["Next.js", "Spring Boot", "IndexedDB"],
-      desc: "Offline-capable POS with local DB, sync and printable invoices.",
-      repo: "https://github.com/JavaDeveloper-Sinku/Restaurant-pos_SystemUi",
+      title: "DailyReport Andirod App",
+      stack: ["ReactNative", "SQLite", "ExpoGo"],
+      desc: "Android app for daily reporting with Spring Boot backend.",
+      repo: "https://github.com/JavaDeveloper-Sinku/DailyReportApp.git",
       demo: "",
-      features: ["Offline mode", "Receipt generation", "Inventory sync"],
+      features: [
+        "User login & registration",
+        "Submit & view daily reports",
+        "Offline data storage with SQLite",
+      ],
     },
     {
       title: "Smart Attendance System",
@@ -50,13 +54,14 @@ export default function home() {
       features: ["Face-based check-in", "Classroom reports", "CSV export"],
     },
     {
-      title: "Video → Short + Subtitles (AI)",
-      stack: ["FFmpeg", "Python", "Streamlit"],
-      desc: "AI pipeline for trimming long videos to shorts plus automatic subtitle generation.",
-      repo: "https://github.com/yourname/video-shortener",
+      title : "JWT Authentication System",
+      stack: ["Spring Boot", "JWT", "MySQL"],
+      desc: "Secure user auth with JWT, role-based access, and password hashing.",
+      repo: "https://github.com/JavaDeveloper-Sinku/Jwt_AuthenticationSystem.git",
       demo: "",
-      features: ["Keyframe detection", "Auto-subtitles", "Export presets"],
+      features: ["JWT token generation", "Role-based access control", "Password hashing"],
     },
+  
   ];
 
   const experience = [
