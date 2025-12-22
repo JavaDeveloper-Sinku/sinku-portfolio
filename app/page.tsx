@@ -200,6 +200,9 @@ export default function home() {
                 <li>Spring MVC / Security</li>
                 <li>JPA / Hibernate</li>
                 <li>REST API design</li>
+                <li>Microservices architecture</li>
+                <li>JWT Authentication</li>
+                <li>Unit & Integration Testing</li>
               </ul>
             </div>
 
@@ -208,9 +211,11 @@ export default function home() {
               <ul className="text-gray-300 space-y-1 text-sm">
                 <li>MySQL / PostgreSQL</li>
                 <li>MongoDB (optional)</li>
+                <li>Azure basics</li>
                 <li>Docker</li>
                 <li>Git & GitHub</li>
                 <li>CI/CD basics</li>
+                <li>Linux command line</li>
               </ul>
             </div>
 
